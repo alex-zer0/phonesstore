@@ -1,0 +1,14 @@
+<div class="phone">
+  <div class="body" ng-if="phone">
+    <h3>{{phone.name}}</h3>
+    <span>Price: {{phone.price}}</span>
+    <p>{{phone.description}}</p>
+  </div>
+  <div class="comments" ng-if="comments">
+    <div class="comment" ng-repeat="comment in comments">
+      <span>Author: {{comment.author}}</span>
+      <p>{{comment.text}}</p>
+    </div>
+  </div>
+  <comment-form phone-id="phone.id"></comment-form>
+</div>

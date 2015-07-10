@@ -1,0 +1,6 @@
+.comment-form .form-control {
+  max-width: 400px;
+}
+.comment-form label {
+  display: block;
+}

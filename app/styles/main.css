@@ -1,0 +1,7 @@
+@import "phone.css";
+@import "directives/comment-form.css";
+
+.message {
+  color: #528046;
+  font-size: 16px;
+}
