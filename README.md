@@ -7,11 +7,13 @@ version 0.11.1.
 
 ## Before running
 
-1) Install necessary bower components: `bower install`
+1) Go to the directory of project.
 
-2) Install necessary node modules: `npm install`
+2) Install necessary bower components: `bower install`
 
-3) Then follow info below...
+3) Install necessary node modules: `npm install`
+
+4) Then follow info below...
 
 ## Build & development
 
