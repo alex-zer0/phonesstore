@@ -2,9 +2,6 @@
 
 Simple project for viewing and adding phones/comments.
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.11.1.
-
 ## Before running
 
 1) Go to the directory of project.
